@@ -1,2 +1,2 @@
-# gout-predictor-app
-SMART on FHIR App that uses a machine learning model to predict whether a patient has gout
+# crc-predictor-app
+SMART on FHIR App that uses a machine learning model to classify and predict a patient's colorectal cancer (CRC) stage
